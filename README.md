@@ -14,7 +14,7 @@ pip install -e .
 
 ## 配置
 
-1. 打开 `.env`
+1. 参考 `.env.example` 中的键值创建 `.env` 文件
 2. 填写你的模型 API 配置:
 
 ```env
